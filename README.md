@@ -80,6 +80,6 @@ Para mejorar este proyecto, se pueden implementar las siguientes funcionalidades
 
 1. Crear una instancia EC2 en AWS
 2. Configurar el entorno en la instancia EC2
-3. Subir el script a la instancia EC2
+3. Subir el script a la instancia EC2 o si lo prefieres a un bucket en aws S3 y luego a ec2
 4. Programar la ejecución del script
 5. Monitorear y gestionar la instancia
